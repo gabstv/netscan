@@ -1,4 +1,4 @@
-module github.com/jessfraz/netscan
+module github.com/gabstv/netscan
 
 require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
