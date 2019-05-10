@@ -12,9 +12,9 @@ import (
 	"syscall"
 	"time"
 
+	"github.com/gabstv/netscan/pkg/scanner"
+	"github.com/gabstv/netscan/version"
 	"github.com/genuinetools/pkg/cli"
-	"github.com/jessfraz/netscan/pkg/scanner"
-	"github.com/jessfraz/netscan/version"
 	"github.com/sirupsen/logrus"
 )
 
